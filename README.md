@@ -11,7 +11,7 @@ I studied Computer Science and Information technology for 2 years, then I studie
 * ✉️  You can contact me at [alanhussein116@gmail.com](mailto:alanhussein116@gmail.com)
 
 
-<img alt="coding image" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw1FE5Hy2mZ7WFi6mDBXzQeR&ust=1672343617567000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICuss2LnfwCFQAAAAAdAAAAABA5](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)">
+<img alt="coding image" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
 
 ### Skills
 
