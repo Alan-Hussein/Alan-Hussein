@@ -7,7 +7,7 @@ Web Developer
 I studied Computer Science and Information technology for 2 years, then I studied Web Developing with HackYourFuture
 
 * 🌍  I'm based in Netherlands, Leeuwarden
-* 🖥️  See my portfolio at [my portfolio](http://...)
+* 🖥️  See my portfolio at [comming soon..](http://...)
 * ✉️  You can contact me at [alanhussein116@gmail.com](mailto:alanhussein116@gmail.com)
 
 
