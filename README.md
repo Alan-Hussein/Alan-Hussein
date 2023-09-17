@@ -4,8 +4,7 @@ Hi 👋 My name is Alan Hussain
 Web Developer
 -------------
 
-I studied Computer Science and Information technology for 2 years, then I studied Web Developing with HackYourFuture
-
+I hold a two-year degree in Computer Science and Information Technology, complemented by specialized training in Web Development at HackYourFuture.
 * 🌍  I'm based in Netherlands, Leeuwarden
 * ✉️  You can contact me at [alanhussein116@gmail.com](mailto:alanhussein116@gmail.com)
 
