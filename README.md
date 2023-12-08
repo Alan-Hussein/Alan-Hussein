@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 I hold a two-year degree in Computer Science and Information Technology, complemented by specialized training in Web Development at HackYourFuture.
-* 🌍  I'm based in Netherlands, 
+* 🌍  I'm based in Netherlands.
 * ✉️  You can contact me at [alanhussein116@gmail.com](mailto:alanhussein116@gmail.com)
 
 
